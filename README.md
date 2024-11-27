@@ -12,8 +12,8 @@ The main objectives of this analysis are to:
 
 # Process
 1. Data Cleansing: Before we begin our analysis, we must ensure the datasets we are working with are complete and accurate so that the resulting work will be reflected as precisely as possible. As a result, data cleansing procedures were enacted to ensure no missing or duplicate values were present in any datasets.
-2. Data Analysis: A correlation and regression analysis were used to identify the top 3 variables contributing the most to a country's Happiness Score. 
-3. Summary of Insights: 
+2. Data Analysis: A correlation and regression analysis were used to identify the top 3 variables contributing the most to a country's Happiness Score. A correlation analysis ___. Once the top 3 variables were identified using the correlation analysis, a regression analysis was conducted to analyze the extent to how much these three variables impact a country's Happiness Score. A regression analysis ___.
+3. Summary of Insights: Once the three project goals were identified, 
 
 # Correlation Analysis 
 ![image](https://github.com/user-attachments/assets/ae49b688-34eb-43d4-83ea-2706fdc7e309)
