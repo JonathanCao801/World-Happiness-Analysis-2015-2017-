@@ -12,8 +12,13 @@ The main objectives of this analysis are to:
 
 # Process
 1. Data Cleansing: Before we begin our analysis, we must ensure the datasets we are working with are complete and accurate so that the resulting work will be reflected as precisely as possible. As a result, data cleansing procedures were enacted to ensure no missing or duplicate values were present in any datasets.
-2. Data Analysis: A correlation and regression analysis were used to identify the top 3 variables contributing the most to a country's Happiness Score. A correlation analysis ___. Once the top 3 variables were identified using the correlation analysis, a regression analysis was conducted to analyze the extent to how much these three variables impact a country's Happiness Score. A regression analysis ___.
-3. Summary of Insights: Once the three project goals were identified, 
+2. Data Analysis: A correlation and regression analysis were used to identify the top 3 variables contributing the most to a country's Happiness Score.
+
+   A correlation analysis is a statistical method that is used to determine the strength of relationships between two variables. This method calculates how much a change in one variable influences changes in another, which will be helpful to this project when determining which variables influence a country's Happiness Score the most.
+
+   Once the top 3 variables were identified using the correlation analysis, a regression analysis was conducted to analyze the extent to how much these three variables impact a country's Happiness Score. A regression analysis is a statistical method that estimates the relationship between a dependent variable and an independent one. In this case, the independent variables used in the regression analyses are each of the three variables identified through the correlation analysis, and the dependent variable is the country's Happiness Score.
+
+3. Summary of Insights: After identifying the three project goals, I analyzed how the gathered insights could be applied to real-world situations. The main talking points of this project are to discuss what countries should do if they want to improve their country's Happiness Score and what countries and regions they can look to for benchmarks on how to create a happier population. 
 
 # Correlation Analysis 
 ![image](https://github.com/user-attachments/assets/ae49b688-34eb-43d4-83ea-2706fdc7e309)
@@ -44,5 +49,9 @@ Each region was ranked by the average Happiness Score
 # What can we learn from this? 
 There is a lot of information we can gain from finding the top 3 variables that contribute the most to a country's Happiness Score and the happiest regions/countries in the world. 
 
-If a country is interested in improving the overall happiness of its citizens, it should focus on 
+If a country is interested in improving the overall happiness of its citizens, it should focus on improving its economy, family, and health. 
+
+There are many different 
+
+Some countries that can be used as benchmarks include Switzerland, Denmark, Iceland, and Norway. 
 
